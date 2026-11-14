@@ -1,4 +1,4 @@
-const CACHE_NAME = 'komal-combined-pwa-v1';
+const CACHE_NAME = 'komal-combined-pwa-v3';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', e => {
   self.skipWaiting();
